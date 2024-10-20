@@ -1,0 +1,3 @@
+/home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/build/CMakeFiles/My_Rpg.dir
+/home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/build/CMakeFiles/edit_cache.dir
+/home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/build/CMakeFiles/rebuild_cache.dir
