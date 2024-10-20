@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/src/functions.cpp" "CMakeFiles/My_Rpg.dir/src/functions.cpp.o" "gcc" "CMakeFiles/My_Rpg.dir/src/functions.cpp.o.d"
   "/home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/src/main.cpp" "CMakeFiles/My_Rpg.dir/src/main.cpp.o" "gcc" "CMakeFiles/My_Rpg.dir/src/main.cpp.o.d"
   )
 

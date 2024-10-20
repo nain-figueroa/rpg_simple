@@ -13,7 +13,8 @@ set(SRC_DIR ${PROJECT_SOURCE_DIR}/src)
 
 ##Archivos necesarios para el ejecutable
 add_executable(${PROJECT_NAME} 
-                ${SRC_DIR}/main.cpp)
+                ${SRC_DIR}/main.cpp
+                ${SRC_DIR}/functions.cpp)
 
 ##Ruta de los headers files
 target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/inc)

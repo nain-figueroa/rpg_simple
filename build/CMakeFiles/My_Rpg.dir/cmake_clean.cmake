@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/My_Rpg.dir/src/functions.cpp.o"
+  "CMakeFiles/My_Rpg.dir/src/functions.cpp.o.d"
   "CMakeFiles/My_Rpg.dir/src/main.cpp.o"
   "CMakeFiles/My_Rpg.dir/src/main.cpp.o.d"
   "My_Rpg"

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/My_Rpg.dir/src/main.cpp.o -o My_Rpg 
+/usr/bin/c++ CMakeFiles/My_Rpg.dir/src/main.cpp.o CMakeFiles/My_Rpg.dir/src/functions.cpp.o -o My_Rpg 

@@ -1,7 +1,8 @@
-CMakeFiles/My_Rpg.dir/src/main.cpp.o: \
- /home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/src/main.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/14/iostream \
- /usr/include/c++/14/bits/requires_hosted.h \
+CMakeFiles/My_Rpg.dir/src/functions.cpp.o: \
+ /home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/src/functions.cpp \
+ /usr/include/stdc-predef.h \
+ /home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/inc/functions.h \
+ /usr/include/c++/14/iostream /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/c++/14/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
  /usr/include/c++/14/x86_64-redhat-linux/bits/os_defines.h \
@@ -128,5 +129,4 @@ CMakeFiles/My_Rpg.dir/src/main.cpp.o: \
  /usr/include/c++/14/bits/locale_facets.tcc \
  /usr/include/c++/14/bits/basic_ios.tcc \
  /usr/include/c++/14/bits/ostream.tcc /usr/include/c++/14/istream \
- /usr/include/c++/14/bits/istream.tcc \
- /home/nainfigueroa/Documentos/Practicas/C++Prjt/rpg_simple/inc/functions.h
+ /usr/include/c++/14/bits/istream.tcc

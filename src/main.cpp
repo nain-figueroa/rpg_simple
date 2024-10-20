@@ -1,4 +1,6 @@
 #include <iostream>
+#include "functions.h"
+
 using namespace std;
 
 //=================MENU INICIAL================================================
@@ -23,8 +25,8 @@ void menu()
 
         switch (i)
         {
-        case 1:
-            cout << "Le dio a jugar" << endl;
+        case 1: // Opcion para jugar
+            game();
             a = 1;
             break;
         case 0:
